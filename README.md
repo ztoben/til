@@ -7,10 +7,20 @@ variety of languages and technologies.
 
 ### Categories
 
+* [Python](#python)
 * [React](#react)
+* [Vim](#vim)
 
 ---
+
+### Python
+
+- [Merging CSVs](python/merging-csvs.md)
 
 ### React
 
 - [Custom Blur Handlers](react/custom-blur-handlers.md)
+
+### Vim
+
+- [Copy/Paste](vim/copy-paste.md)
