@@ -7,11 +7,15 @@ variety of languages and technologies.
 
 ### Categories
 
+* [Github](#github)
 * [Python](#python)
 * [React](#react)
 * [Vim](#vim)
 
 ---
+
+### Github
+- [Uploading images to the Github CDN](github/upload-images-to-cdn.md)
 
 ### Python
 
