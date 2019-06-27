@@ -8,6 +8,7 @@ variety of languages and technologies.
 ### Categories
 
 * [Github](#github)
+* [JavaScript](#javascript)
 * [Python](#python)
 * [React](#react)
 * [Vim](#vim)
@@ -16,6 +17,9 @@ variety of languages and technologies.
 
 ### Github
 - [Uploading images to the Github CDN](github/upload-images-to-cdn.md)
+
+### JavaScript
+- [Asserting spy order with sinon](javascript/sinon-assert-spy-order.md)
 
 ### Python
 
