@@ -32,3 +32,4 @@ variety of languages and technologies.
 ### Vim
 
 - [Copy/Paste](vim/copy-paste.md)
+- [Window Management](vim/window-management.md)
